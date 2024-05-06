@@ -1,0 +1,7 @@
+.arabic-content-direction {
+    direction: rtl !important;
+  }
+
+  .arabic-content-left {
+    left: 0 !important;
+  }
